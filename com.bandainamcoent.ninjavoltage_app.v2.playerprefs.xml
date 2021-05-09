@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="unity.player_sessionid">4565662269000000705</string>
+    <string name="unity.player_session_count">16</string>
+    <int name="Screenmanager%20Resolution%20Width" value="1280" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <string name="Tutorial.SaveData">%7B%22userID%22%3A%22951b2556-d0bb-4f66-b7c5-71e9d45ab19b%22%2C%22userName%22%3A%22%22%2C%22state%22%3A1010300%2C%22isSendedNextTutorialGreco%22%3Afalse%7D</string>
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <string name="Language">English</string>
+    <int name="Screenmanager%20Resolution%20Height" value="640" />
+</map>
